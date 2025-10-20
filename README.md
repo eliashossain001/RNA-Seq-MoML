@@ -108,6 +108,12 @@ A critic-agreement map highlights how multiple agents converge on stable interpr
 }
 ```
 
+
+# Acknowledgments
+
+We gratefully acknowledge the invaluable support and collaboration of Maryam Rahimi Movassagh and Sanjeda Sara Jennifer, whose insights and encouragement greatly contributed to the refinement of this work.
+Special thanks are also extended to all members of the Complex Adaptive Systems Laboratory (CASL) at the University of Central Florida for their constructive feedback, discussions, and a collaborative research environment that made this project possible.
+
 ---
 
 ## ⚙️ License
