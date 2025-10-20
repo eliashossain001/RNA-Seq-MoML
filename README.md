@@ -15,7 +15,8 @@ It integrates:
 - Confidence and critic agreement metrics
 - Comparison with Gemini baseline
 
-![CITE V.1 Framework](figures/Fig1_Framework.png)
+![WhatsApp Image 2025-10-17 at 11 35 26 AM](https://github.com/user-attachments/assets/36904ef4-5bf0-4100-8ba9-10cca89dd865)
+
 
 ## 📂 Contents
 - Poster PDF
