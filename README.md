@@ -98,12 +98,15 @@ A critic-agreement map highlights how multiple agents converge on stable interpr
 ---
 
 ## 🧾 Citation
-
-> **Elias Hossain**, **Mehrdad Shoebi**, **Ivan Garibay**, **Niloofar Yousefi**  
-> *CITE V.1: Evidence-Grounded, LLM-Agentic Interpretation of RNA-Seq Clusters*  
-> MIT Molecular Machine Learning Conference 2025  
-> Complex Adaptive Systems Laboratory (CASL), University of Central Florida  
-> [arXiv (preprint pending)](https://arxiv.org/abs/25xx.xxxxx)
+```
+@misc{hossain2025citev1,
+  author       = {Elias Hossain and Mehrdad Shoebi and Ivan Garibay and Niloofar Yousefi},
+  title        = {CITE V.1: Evidence-Grounded, LLM-Agentic Interpretation of RNA-Seq Clusters},
+  year         = {2025},
+  howpublished = {Presented at the Molecular Machine Learning Conference (MoML), MIT},
+  note         = {Preprint: \url{https://arxiv.org/abs/25xx.xxxxx}},
+}
+```
 
 ---
 
