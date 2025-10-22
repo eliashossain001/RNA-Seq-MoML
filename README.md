@@ -3,6 +3,8 @@
 This repository documents **CITE V.1** — a *multi-agent, literature-anchored large-language-model (LLM) framework* designed for **transparent interpretation of RNA-Seq clusters**.  
 Developed at the **Complex Adaptive Systems Laboratory (CASL)**, University of Central Florida, CITE V.1 demonstrates how multi-agent reasoning can transform opaque transcriptomic cluster analyses into *auditable, evidence-grounded insights*.
 
+arXiv: https://arxiv.org/abs/2510.16082
+
 ---
 
 ## 🧬 Overview
